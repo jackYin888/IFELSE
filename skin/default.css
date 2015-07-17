@@ -1,0 +1,78 @@
+/*
+#1 =grey
+#2 = 79CDC0
+*/
+a {
+	color: grey;
+}
+a:hover {
+	color: grey;
+}
+
+/* menu */
+.nav>li>a:hover {
+	color: grey;
+}
+
+.navbar .navbar-nav > .active > a {
+	color: grey;
+}
+
+/* flexslider */
+.flex-control-paging li a {
+	background: grey;
+}
+
+.flex-direction-nav a:hover{
+	background-color:grey;
+}
+
+.testimonial span.author a {
+	color: grey;
+}
+
+/* --- icon box hover --- */
+.hi-icon-effect-5 .hi-icon {
+	color: grey;
+	box-shadow: 0 0 0 4px grey;
+}
+.no-touch .hi-icon-effect-5 .hi-icon:hover {
+	background: grey;
+	box-shadow: 0 0 0 8px  grey;
+}
+
+
+/* portfolio */
+.portfolio-item .portfolio-desc {
+	background: grey;
+}
+
+/* btn */
+.btn-theme {
+  background: grey;
+}
+.btn-theme:hover,.btn-theme:focus,.btn-theme:active{
+  background: grey;
+}
+.btn-cta,.btn-cta.btn-lg {
+  background: grey;
+  border-color: grey;
+}
+
+.btn-cta:focus,.btn-cta:active{
+   border-color: grey;
+}
+
+/* contact */
+.validation {
+	color:grey;
+}
+
+/* footer */
+.social-circle li a {
+	background:grey;
+}
+
+a.scrollup{
+	background:grey;
+}
